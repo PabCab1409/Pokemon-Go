@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Pokemon Go</string>
+    <string name="insertarPokemon">Insertar un Pokemon</string>
+    <string name="empezarACazar">Empezar a cazar</string>
+    <string name="nombrePokemonMundo">Nombre del Pokemon</string>
+    <string name="tipoPokemonMundo">Tipo del Pokemon</string>
+    <string name="xPokemonMundo">Coordenada X</string>
+    <string name="yPokemonMundo">"Coordenada Y "</string>
+    <string name="guardarPokemonMundo">Guardar Pokemon en base de datos Mundo</string>
+    <string name="verPokemons">Ver Pokemons</string>
+    <string name="cazar">cazar</string>
+</resources>
